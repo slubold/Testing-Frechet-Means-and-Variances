@@ -50,9 +50,6 @@ hat_Sigma_2 = mean(dist_G2^4) - (mean(dist_G2^2))^2
 U_n = lambda_1n * lambda_2n * (V_F1 - V_F2)^2 / ( hat_Sigma_1 * hat_Sigma_2)
 
 T_n = n * U_n / (lambda_1n/hat_Sigma_1 + lambda_2n/hat_Sigma_2) + n * F_n^2 / (lambda_1n^2 * hat_Sigma_1 +  lambda_2n^2 * hat_Sigma_2)
-cutoff = qchisq(1-alpha, df = 1)
-print(cutoff)
-print(T_n)
 return(as.numeric(T_n > cutoff))
 }
 
