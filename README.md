@@ -1,1 +1,1 @@
-# Fr-chet-Means
+# Fréchet-Means
