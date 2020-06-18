@@ -1,6 +1,6 @@
 # Testing Fréchet Means and Variances
 
-This repository contains code that implements the tests from the paper ''Fréchet Analysis of Variance for Random Objects" by Paromita Dubey and Hans-Georg Müller.  Please reach out to me with questions or comments or improvements to the code at sl223@uw.edu!
+This repository contains code that implements the tests from the paper ''Fréchet Analysis of Variance for Random Objects" by Paromita Dubey and Hans-Georg Müller.  Please reach out to me with questions or suggestions on how to improve the code at sl223@uw.edu!
 
 
 Files: 
