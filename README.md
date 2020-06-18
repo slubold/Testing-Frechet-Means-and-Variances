@@ -1,4 +1,4 @@
-# Fréchet-Means
+# Fréchet Mean and Variances
 
 This directory contains code implementing tests from the paper ''Fréchet Analysis of Variance for Random Objects" by Paromita Dubey and Hans-Georg Müller.
 
